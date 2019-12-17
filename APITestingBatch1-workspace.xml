@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:soapui-workspace name="Projects" soapui-version="5.5.0" xmlns:con="http://eviware.com/soapui/config">
+  <con:settings/>
+  <con:project name="Calculator">E:/API Testing/LPB12/Calculator-soapui-project.xml</con:project>
+  <con:project name="E_Commerce">E:/API Testing/LPB12/E-Commerce-soapui-project.xml</con:project>
+  <con:project name="E_Commerce_MockingDemo">E:/API Testing/LPB12/E-Commerce-MockingDemo-soapui-project.xml</con:project>
+  <con:project name="E_Commerce_Groovy">E:/API Testing/LPB12/E-Commerce-Groovy-soapui-project.xml</con:project>
+  <con:project name="Add &amp; Delete Places">E:/API Testing/LPB12/Add---Delete-Places-soapui-project.xml</con:project>
+  <con:project name="ECommerce_Service">E:/API Testing/LPB12/ECommerce-Service-soapui-project.xml</con:project>
+  <con:project name="LPB12_Project">E:/API Testing/LPB12/LPB12-Project-soapui-project.xml</con:project>
+  <con:collectInfoForSupport>false</con:collectInfoForSupport>
+</con:soapui-workspace>
